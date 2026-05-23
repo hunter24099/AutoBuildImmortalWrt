@@ -8,7 +8,7 @@
 
 # 首页和网络向导
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-quickstart-zh-cn"
-# 新增非常好用的文件管理器 sbwml/luci-app-quickfile
+# 新增非常好用的文件管理器 sbwml/luci-app-quickfile （luci 23版本不支持 勿集成）
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES bash quickfile luci-app-quickfile luci-i18n-quickfile-zh-cn"
 # 高级卸载 by YT Vedio Talk
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-uninstall"
